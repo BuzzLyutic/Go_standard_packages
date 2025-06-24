@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "full_name": "Tony Soprano",
+    "overall_average": 4.380952380952381,
+    "subjects_average": {
+      "Computer science": 4.857142857142857,
+      "Math": 4.428571428571429,
+      "Russian": 3.857142857142857
+    }
+  },
+  {
+    "id": 2,
+    "full_name": "Walter White",
+    "overall_average": 4.380952380952381,
+    "subjects_average": {
+      "Computer science": 4.285714285714286,
+      "Math": 4.857142857142857,
+      "Russian": 4
+    }
+  },
+  {
+    "id": 3,
+    "full_name": "Jessy Pinkman",
+    "overall_average": 3.1904761904761907,
+    "subjects_average": {
+      "Computer science": 3.2857142857142856,
+      "Math": 3.5714285714285716,
+      "Russian": 2.7142857142857144
+    }
+  }
+]
